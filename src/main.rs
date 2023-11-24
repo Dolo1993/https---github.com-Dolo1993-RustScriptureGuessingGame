@@ -52,7 +52,6 @@ fn main() {
     println!();
     println!("Welcome to the Scripture Guessing Game!");
     println!("Number of guesses allowed: {}", max_attempts); 
-    println!("{}", chosen_word);
 
     let mut correct_guess_made = false;
 
