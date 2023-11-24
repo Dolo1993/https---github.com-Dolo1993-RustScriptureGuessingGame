@@ -20,8 +20,8 @@ To develop the Hangman game in Rust, I utilized the following tools:
 
 
 # Useful Websites
-- [Rust Documentation](https://www,rust-lang.org/learn)
-- [Rust Programming Forum](http://user.rust-lang.org)
+- [Rust Documentation](https://www.rust-lang.org/learn)
+- [Rust Programming Forum](https://users.rust-lang.org/)
 
 # Future Work 
 
